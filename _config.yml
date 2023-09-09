@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Emily Van Syoc
+email: vansyoc@psu.edu
+description: Website for Emily Van Syoc
 baseurl: ""
 url: ""
 
@@ -12,27 +12,24 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Emily Van Syoc<br/>
+    Postdoctoral Scholar<br/>
+    Penn State University
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Penn State University<br/>
+  Millenium Science Complex<br/>
+  University Park, PA 16802
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="mailto:vansyoc@psu.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Emily via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
   - name: research
-  - name: software
-  - name: team
   - name: teaching
 
 include:
@@ -63,8 +60,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
-  first_name: [John]
+  last_name: Van Syoc
+  first_name: [Emily]
 
   style: citesty
   locale: en

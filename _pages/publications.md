@@ -3,7 +3,7 @@ title: "Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-years: [2016, 2017, 2018, 2019, 2020, 2021]
+years: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 ---
 
 <style>
@@ -17,16 +17,12 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Preprints
+### preprints or in review
 {% bibliography --query @unpublished %}
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
+### refereed journal articles
 {% bibliography --query @article %}
 </div>
 
-<div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
-</div>

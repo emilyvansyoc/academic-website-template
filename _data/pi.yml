@@ -1,22 +1,22 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Dr. Emily Van Syoc
+  photo: huck-pic.jpg
+  info: Postdoctoral Scholar, Bordenstein Lab, Penn State University
+  email: vansyoc@psu.edu
+  github: https://github.com/emilyvansyoc
+  researchgate: https://www.researchgate.net/profile/Emily-Bean-Van-Syoc-2
+  scholar: https://scholar.google.com/citations?user=pdxhIjcAAAAJ&hl=en&oi=ao
+  cv: cv/VanSyoc_CV-Sep2023.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
+  number_educ: 3
+  education1: "(2023) Ph.D. Integrative & Biomedical Physiology and Clinical & Translational Sciences, Pennsylvania State University "
+  education2: "(2019) M.S. Soil Science, University of Wyoming"
+  education3: "(2016) B.S. Animal Science, Minor in Sustainable Agriculture, California Polytechnic State University San Luis Obispo"
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
-  # education3short: 
+  education1short: (2023) Ph.D. Physiology & Clinical Science, Penn State
+  education2short: (2019) M.S. Soil Science, U Wyoming
+  education3short: (2016) B.S. Animal Science, Cal Poly
   # education4short: 
   # education5short: 
   # education6short: 

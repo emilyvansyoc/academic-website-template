@@ -34,8 +34,9 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Soil microbiomes change in response to grazing intensity</h4>
 
-Example description
+At the University of Wyoming, I conducted a grazing trial to investigate the very-short-term responses of soil microbes to grazing intensities....
+More coming soon!
 </div>
 </div>
