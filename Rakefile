@@ -1,4 +1,5 @@
 # From: https://github.com/ainc/awesomeinc2013/blob/master/Rakefile 
+# updated rakefile 9/8
 
 require "rubygems"
 require "tmpdir"
@@ -29,8 +30,8 @@ task :publish => [:generate] do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
-    system "git remote add origin git@github.com:sbryngelson/bryngelson_personal_template.git"
-    system "git push origin master --force"
+    system "git remote add origin https://github.com/emilyvansyoc/emilyvansyoc.github.io.git"
+    system "git push origin main --force"
 
     Dir.chdir pwd
   end
